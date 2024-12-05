@@ -117,7 +117,7 @@ if(isset($_POST['submit'])) {
 
                     <div class="cta">
    <a href="registration.php" style="color:#5c4ac7;">Create an account</a> | 
-    <a href="admin.php" style="color:#5c4ac7;">Login as Admin</a>
+    <a href="admi.php" style="color:#5c4ac7;">Login as Admin</a>
 </div>
                 </div>
                 <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
